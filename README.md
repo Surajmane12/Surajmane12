@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Balkrishna Mane</h1>
 <h3 align="center">A passionate Full Stack developer from India | < Full Stack Developer /> | { Coding ⌨️ + Capturing 🌄 + Exploring 🌍 }</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=surajmane12" alt="surajmane12" /></a> </p>
-
+ -->
 - 🔭 I’m currently working on [Exam Central](https://exam.vppcoe.getflytechnologies.com/)
 
 - 🌱 I’m currently learning **Next JS, Framer**
