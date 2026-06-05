@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Suraj Balkrishna Mane</h1>
+<h1 align="center">Hi, I am Suraj Balkrishna Mane</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -12,7 +12,6 @@
 ---
 
 - 🔭 Currently working at: **Ethical Genesis AI** as Associate Software Engineer
-- 🌱 Currently exploring: **GoLang**, **AWS Serverless**, **Zustand**
 - 💬 Ask me about: **React.js**, **Next.js**, **Node.js**, **PostgreSQL**
 - 📫 Reach me at: **manesuraj272@gmail.com**
 - ⚡ Fun Fact: When I am not coding, I am probably capturing moments 📸 or exploring new places 🗺️
