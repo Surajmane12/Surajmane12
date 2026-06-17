@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 Currently working at: **Ethical Genesis AI** as Associate Software Engineer
+- 🔭 Currently working as: Associate Software Engineer
 - 💬 Ask me about: **React.js**, **Next.js**, **Node.js**, **PostgreSQL**
 - 📫 Reach me at: **manesuraj272@gmail.com**
 - ⚡ Fun Fact: When I am not coding, I am probably capturing moments 📸 or exploring new places 🗺️
